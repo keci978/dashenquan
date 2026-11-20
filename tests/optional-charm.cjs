@@ -1,0 +1,10 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const app=fs.readFileSync('dist/app.js','utf8'),notices=[],panels=[];
+const c={items:{},state:{inventory:{honey:1,charm:0},bag:[null,null,null,null],reserve:[null,null,null,null],mode:'home',leaves:0},draft:['honey',null,null,null],save(){},render(){},closePanel(){},openPanel:p=>panels.push(p),toast:m=>notices.push(m),GameFriends:{tick(){}},scene:'room'};
+vm.createContext(c);vm.runInContext(fs.readFileSync('dist/collection-catalog.js','utf8'),c);for(const f of ['item-config.js','travel-engine.js'])vm.runInContext(fs.readFileSync('dist/'+f,'utf8'),c);vm.runInContext('GameTravel.initialize(state)',c);
+for(const name of ['saveBag','depart'])vm.runInContext(app.match(new RegExp('function '+name+'\\([^]*?\\n}'))[0],c);
+c.saveBag();assert.equal(c.state.mode,'prepare');assert.equal(panels.at(-1),'departure');assert.equal(c.state.inventory.honey,1);
+c.depart();assert.equal(c.state.mode,'travel');assert.equal(c.state.inventory.honey,0);assert.equal(c.state.inventory.charm,0);assert(c.state.trip.end>c.state.trip.start);const snapshot=JSON.stringify(c.state);c.depart();assert.equal(JSON.stringify(c.state),snapshot);
+c.state.mode='home';c.state.bag=[null,null,null,null];c.depart();assert.equal(c.state.mode,'home');assert(notices.at(-1).includes('便当'));
+assert(app.includes("i===0?' · 必带':' · 可选'"));assert(app.includes('护身符与道具均可留空'));
+console.log('PASS: food-only bag saves, prepares and departs with zero charms; food consumed once; missing food blocked; optional slots explained');

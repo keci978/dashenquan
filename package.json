@@ -1,0 +1,9 @@
+{
+  "name": "bamboo-panda-home",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/preview.mjs",
+    "build": "python3 scripts/build-runtime.py",
+    "test": "node tests/collection-rules.cjs && node tests/item-rules.cjs && node tests/runtime-stability.cjs && node tests/golden-harvest.cjs && node tests/friend-visits.cjs && node tests/lottery-rules.cjs && node tests/asset-delivery.cjs && node tests/journal-rules.cjs && node tests/inventory-allocation.cjs && node tests/away-yard.cjs && node tests/envelope-letters.cjs && node tests/optional-charm.cjs && node tests/multi-shelf.cjs && node tests/pantry-shop.cjs && node tests/friend-bond.cjs && node tests/trip-progression.cjs && node tests/postcard-rules.cjs && node tests/story-postcards.cjs && node tests/friend-titles.cjs"
+  }
+}

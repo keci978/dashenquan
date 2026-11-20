@@ -1,0 +1,4 @@
+Sample edits and original sequencing for 竹林小院.
+Instrument samples from TimGM6mb by Tim Brechbill and David Bolton. See TimGM-license.txt.
+Rustling layers edited from the freedesktop sound theme, trash-empty. See freedesktop-license.txt.
+Cuts, pitch shifts, mixing and timing adapted for game playback. The bowed music box uses sampled cello and music box.

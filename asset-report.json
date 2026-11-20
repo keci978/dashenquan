@@ -1,0 +1,2386 @@
+{
+  "originalBytes": 87521714,
+  "deployedBytes": 22368410,
+  "files": [
+    {
+      "name": "envelope-back",
+      "file": "envelope-back.576a27661152.webp",
+      "sourceHash": "b134804e2e7fbd4c21ac28a8d15c4c49ea4c3d235a60ec2633fdca324cadcffe",
+      "originalBytes": 2255338,
+      "bytes": 40344,
+      "width": 700,
+      "height": 449,
+      "alpha": true
+    },
+    {
+      "name": "envelope-flap",
+      "file": "envelope-flap.2324afa0c886.webp",
+      "sourceHash": "fbe8f96abfae8f661d3942c8d38683c40897e300069a42cfbab3a14dc29d997e",
+      "originalBytes": 1453674,
+      "bytes": 25550,
+      "width": 700,
+      "height": 245,
+      "alpha": true
+    },
+    {
+      "name": "envelope-front-bamboo",
+      "file": "envelope-front-bamboo.074d452d4d82.webp",
+      "sourceHash": "125365a73952953c6f4ea9b7e5d5db485b06c132acd36a2f6962fbe4e0b19bed",
+      "originalBytes": 1997974,
+      "bytes": 56024,
+      "width": 700,
+      "height": 427,
+      "alpha": true
+    },
+    {
+      "name": "envelope-front-kraft",
+      "file": "envelope-front-kraft.03fbea9fcc2d.webp",
+      "sourceHash": "2ed93e798e813948594cfacc9040a3f6e6634b2d1e2b85f5e57a8b210833507c",
+      "originalBytes": 2099535,
+      "bytes": 46362,
+      "width": 700,
+      "height": 424,
+      "alpha": true
+    },
+    {
+      "name": "envelope-paper-seal",
+      "file": "envelope-paper-seal.e9f34206be4e.webp",
+      "sourceHash": "f7a51cd800b15c6213601c1f5383fae20c95aec731330f3da570d320ae371203",
+      "originalBytes": 1567728,
+      "bytes": 10462,
+      "width": 192,
+      "height": 168,
+      "alpha": true
+    },
+    {
+      "name": "envelope-wax-seal",
+      "file": "envelope-wax-seal.8a21194b7751.webp",
+      "sourceHash": "5b06e32e5f798747151a89dd42486a798b242d05f3523e6601bca4df4cc8637d",
+      "originalBytes": 2199273,
+      "bytes": 13022,
+      "width": 192,
+      "height": 177,
+      "alpha": true
+    },
+    {
+      "name": "feedback-bubble",
+      "file": "feedback-bubble.27f02c98adc8.webp",
+      "sourceHash": "fc746610e4650ebfd66899df96201ad1f5fade3b91485dbca58a6d0b839ea15b",
+      "originalBytes": 169870,
+      "bytes": 18402,
+      "width": 384,
+      "height": 221,
+      "alpha": true
+    },
+    {
+      "name": "feedback-reward",
+      "file": "feedback-reward.664979a14eb3.webp",
+      "sourceHash": "f1646451939339ae36443857b2c571796f0f1791cf01d45c364ecdbd23f1f0c8",
+      "originalBytes": 142639,
+      "bytes": 14446,
+      "width": 384,
+      "height": 180,
+      "alpha": true
+    },
+    {
+      "name": "feedback-sparkles",
+      "file": "feedback-sparkles.facea10ec208.webp",
+      "sourceHash": "b40512d8eec0f72dd4b6d91433c80051e0244d818741a3c998c653a3feb2fa58",
+      "originalBytes": 161063,
+      "bytes": 30948,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "feedback-steam",
+      "file": "feedback-steam.e81a12a7f31d.webp",
+      "sourceHash": "348acf39f4b09fe8bc000d387cd03e1dd853428d5ed9e3f9444ba4d405f84475",
+      "originalBytes": 159818,
+      "bytes": 30258,
+      "width": 384,
+      "height": 318,
+      "alpha": true
+    },
+    {
+      "name": "friend-aguo",
+      "file": "friend-aguo.d40a8050eeb8.webp",
+      "sourceHash": "484997a9acc789ef195b8ada5cf55779e9e68d946b775563934dadb331ce46bb",
+      "originalBytes": 607206,
+      "bytes": 73248,
+      "width": 433,
+      "height": 448,
+      "alpha": true
+    },
+    {
+      "name": "friend-baiyu",
+      "file": "friend-baiyu.ca8ed97cad0e.webp",
+      "sourceHash": "c5263db23303767b031ac2a8718f3dcd6098ab81b66e8435c2070000163b79f5",
+      "originalBytes": 369587,
+      "bytes": 51832,
+      "width": 434,
+      "height": 448,
+      "alpha": true
+    },
+    {
+      "name": "friend-fangfang",
+      "file": "friend-fangfang.38937207a50c.webp",
+      "sourceHash": "4f423c30cb0e74db2352ad1933d12764038a13c7ac5d34a5429284962884c5b4",
+      "originalBytes": 542569,
+      "bytes": 60818,
+      "width": 421,
+      "height": 448,
+      "alpha": true
+    },
+    {
+      "name": "friend-food-cake",
+      "file": "friend-food-cake.ea74832210a1.webp",
+      "sourceHash": "7e68c35ee03e13d07b7e98316861b731d04d3954bdc65083d27493a93703a0b5",
+      "originalBytes": 19500,
+      "bytes": 3408,
+      "width": 130,
+      "height": 72,
+      "alpha": false
+    },
+    {
+      "name": "friend-food-flower",
+      "file": "friend-food-flower.db2fb5293266.webp",
+      "sourceHash": "6993b08feeb2c4d90cb4358988a8a37a8cbdf87a89d7056be22a2291c0455ed1",
+      "originalBytes": 15324,
+      "bytes": 2410,
+      "width": 114,
+      "height": 68,
+      "alpha": false
+    },
+    {
+      "name": "friend-food-fruit",
+      "file": "friend-food-fruit.4e44a8491a75.webp",
+      "sourceHash": "618ac39df1f62323176fcbc7e260f7eafd580fbce65a71e2e7c705e0afb80f14",
+      "originalBytes": 5528,
+      "bytes": 1162,
+      "width": 63,
+      "height": 40,
+      "alpha": false
+    },
+    {
+      "name": "friend-food-grain",
+      "file": "friend-food-grain.ac2344ade5c2.webp",
+      "sourceHash": "6577d58a06f7a2846f7b5739b5581f524a1401dba7cc9669f5217e5705f26bbd",
+      "originalBytes": 6488,
+      "bytes": 1478,
+      "width": 70,
+      "height": 42,
+      "alpha": false
+    },
+    {
+      "name": "friend-food-jerky",
+      "file": "friend-food-jerky.80e23cff50cb.webp",
+      "sourceHash": "d876064ae719ec135c104d8c4b0b2560f135408f225fa29caf11d73a1720946d",
+      "originalBytes": 5251,
+      "bytes": 1192,
+      "width": 59,
+      "height": 41,
+      "alpha": false
+    },
+    {
+      "name": "friend-food-nuts",
+      "file": "friend-food-nuts.36723bf84261.webp",
+      "sourceHash": "dd3f4c8d6b85315134d02075cdd8eb1a476fda5f3eede0f2e69927934f725dfa",
+      "originalBytes": 14905,
+      "bytes": 2330,
+      "width": 117,
+      "height": 63,
+      "alpha": false
+    },
+    {
+      "name": "friend-jinjin",
+      "file": "friend-jinjin.ddae7602c404.webp",
+      "sourceHash": "4fc777141427d87260598ddde3f1bad9aacbcb4a233f12c3283bcfc2f0334e09",
+      "originalBytes": 587268,
+      "bytes": 76388,
+      "width": 437,
+      "height": 448,
+      "alpha": true
+    },
+    {
+      "name": "friend-ticket",
+      "file": "friend-ticket.18d749c09ac1.webp",
+      "sourceHash": "e85e5b9e1f56548cedba3478107b71266ba755f56162d08725ce2c85638395d2",
+      "originalBytes": 14086,
+      "bytes": 2430,
+      "width": 72,
+      "height": 98,
+      "alpha": false
+    },
+    {
+      "name": "golden-shoot-v2",
+      "file": "golden-shoot-v2.8f3c0dac14fe.webp",
+      "sourceHash": "078d767f6cca7fbef7aa712f8ff293770eade364c6b609edc05436b9da968ed2",
+      "originalBytes": 1066587,
+      "bytes": 24724,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "header-weather-0",
+      "file": "header-weather-0.5a22063ef6ca.webp",
+      "sourceHash": "a37c6eef5d5c458070bfebeacda91ca484256f3f3d016a272661956be7c449f0",
+      "originalBytes": 24191,
+      "bytes": 9152,
+      "width": 128,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "header-weather-1",
+      "file": "header-weather-1.100855991047.webp",
+      "sourceHash": "d0a86b4f3b181d18296cb9cdeecd4556a136d9aadc0d8a498f7a236168edd3fa",
+      "originalBytes": 25879,
+      "bytes": 8766,
+      "width": 128,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "header-weather-10",
+      "file": "header-weather-10.c942b5cf4d76.webp",
+      "sourceHash": "5a5885dbe50950922e0e73d094f3bc71917fdb6a4863a46a89ea5baf0e09d128",
+      "originalBytes": 24575,
+      "bytes": 7754,
+      "width": 128,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "header-weather-11",
+      "file": "header-weather-11.7cd1aed0f044.webp",
+      "sourceHash": "aa2360f475b12d37a5f032271cea4a7aca77f02c1ad14b6b0fdfeedaf9f5cb04",
+      "originalBytes": 25548,
+      "bytes": 7238,
+      "width": 128,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "header-weather-2",
+      "file": "header-weather-2.a7330e7ba924.webp",
+      "sourceHash": "1718a1c13e41b78d2780c9a58532bba65aff5c7790d8f3bd3a618e7cdd71e698",
+      "originalBytes": 23196,
+      "bytes": 7180,
+      "width": 128,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "header-weather-3",
+      "file": "header-weather-3.3e5e6eebcb5e.webp",
+      "sourceHash": "3af11c34fd129348bf4d506c800abe6dccb1736d5f18a1d35b7fb1fcd63464ea",
+      "originalBytes": 24291,
+      "bytes": 6832,
+      "width": 128,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "header-weather-4",
+      "file": "header-weather-4.242b5dd75733.webp",
+      "sourceHash": "8195c3b6dcd65630fd5d2fe651564ee054ca46ccc70cab7f6530c91fc2905f78",
+      "originalBytes": 17826,
+      "bytes": 4646,
+      "width": 128,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "header-weather-5",
+      "file": "header-weather-5.2129760ec998.webp",
+      "sourceHash": "c5cd1e0b077494bbf6441eef61019421eabfcaca0226b2be546aa2418330a561",
+      "originalBytes": 20487,
+      "bytes": 5864,
+      "width": 128,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "header-weather-6",
+      "file": "header-weather-6.1ef69fce7c19.webp",
+      "sourceHash": "506c1e6657483277ef57ceb254f7619c93ac4a841c69a1d69f6b8e218aa8396e",
+      "originalBytes": 25609,
+      "bytes": 8440,
+      "width": 128,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "header-weather-7",
+      "file": "header-weather-7.a9c1d2fe54bb.webp",
+      "sourceHash": "5bf8beb9e0691232f270b234cb786fb087749b2cc22da66eded530dba19fe076",
+      "originalBytes": 25954,
+      "bytes": 8216,
+      "width": 128,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "header-weather-8",
+      "file": "header-weather-8.8446738278a3.webp",
+      "sourceHash": "36a21d404fd493b99d5bc96b2bccf798245aba5a449902cfba5fbad09eee7a9c",
+      "originalBytes": 26883,
+      "bytes": 10808,
+      "width": 128,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "header-weather-9",
+      "file": "header-weather-9.869ef8fc1327.webp",
+      "sourceHash": "c22213380db9b7a39b32db3ad5cbede586fdbe50798838e1c03450b06e940d32",
+      "originalBytes": 25573,
+      "bytes": 10304,
+      "width": 128,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "icon0",
+      "file": "icon0.5447466dc997.webp",
+      "sourceHash": "3ffb42f2360b62cefb68c49324142917a2c7e00a5cc1fd8781f68ea53e8026de",
+      "originalBytes": 94841,
+      "bytes": 21236,
+      "width": 145,
+      "height": 192,
+      "alpha": true
+    },
+    {
+      "name": "icon11",
+      "file": "icon11.2676144f0767.webp",
+      "sourceHash": "ec92a4fabe52edad7fe6e21bb1309db1fc0288aa597cc413ac5da5bf67598b5f",
+      "originalBytes": 66665,
+      "bytes": 14030,
+      "width": 192,
+      "height": 155,
+      "alpha": true
+    },
+    {
+      "name": "icon2",
+      "file": "icon2.c14c21f1688e.webp",
+      "sourceHash": "f33f26c5ea066b8e6ba1216ac36e705f044618d61cf57802a507c30caf1acad5",
+      "originalBytes": 93552,
+      "bytes": 21762,
+      "width": 179,
+      "height": 192,
+      "alpha": true
+    },
+    {
+      "name": "icon3",
+      "file": "icon3.9cdabc172451.webp",
+      "sourceHash": "e4bc0f8b83b3043aca985105363f2c69efc1c604196cd21013e9c6da8cd45d91",
+      "originalBytes": 83405,
+      "bytes": 18492,
+      "width": 183,
+      "height": 192,
+      "alpha": true
+    },
+    {
+      "name": "icon5",
+      "file": "icon5.5a4569518a2a.webp",
+      "sourceHash": "320e1122a17e261ce4f30dc52762ad9386eee43b496dbdb6dc716e3d75a3c9f8",
+      "originalBytes": 79474,
+      "bytes": 14830,
+      "width": 152,
+      "height": 192,
+      "alpha": true
+    },
+    {
+      "name": "icon6",
+      "file": "icon6.b3f00e281b47.webp",
+      "sourceHash": "fc24c1d4e51cebc2997b39200c11dcfb68e04b95ef92993e860dc84b1a610870",
+      "originalBytes": 107900,
+      "bytes": 17706,
+      "width": 192,
+      "height": 190,
+      "alpha": true
+    },
+    {
+      "name": "item0",
+      "file": "item0.f03b815ef9ec.webp",
+      "sourceHash": "7eec6cca5e0f1c40f3bf784e1b2ccf8c28fa8b774022d2216a585fa0136d8246",
+      "originalBytes": 135404,
+      "bytes": 29402,
+      "width": 305,
+      "height": 247,
+      "alpha": true
+    },
+    {
+      "name": "item1",
+      "file": "item1.df7c3f50c879.webp",
+      "sourceHash": "8d2e979b4f1b3d73aea96550153b3ae857b4d938074d2f0faefd4b98b52db32c",
+      "originalBytes": 166296,
+      "bytes": 33666,
+      "width": 351,
+      "height": 250,
+      "alpha": true
+    },
+    {
+      "name": "item10",
+      "file": "item10.e8036116c6a8.webp",
+      "sourceHash": "15b02aefca9f3a51a68d303078c6d0f675726d1e05fc1dc08c3f118a1a8caec2",
+      "originalBytes": 141696,
+      "bytes": 37232,
+      "width": 350,
+      "height": 280,
+      "alpha": true
+    },
+    {
+      "name": "item4",
+      "file": "item4.2a9c2955f3dc.webp",
+      "sourceHash": "c3f5d85b0950e0eb397c1d1e806fd22f1fde93302eff9e0e6f918e65fb45da0a",
+      "originalBytes": 94176,
+      "bytes": 27356,
+      "width": 350,
+      "height": 275,
+      "alpha": true
+    },
+    {
+      "name": "item8",
+      "file": "item8.db822c003e0e.webp",
+      "sourceHash": "e2bd02ad08d13a1dbcf6f94b75cc181ca8c9e3c2a0258955f8d68c71fdd7864f",
+      "originalBytes": 162262,
+      "bytes": 37904,
+      "width": 350,
+      "height": 280,
+      "alpha": true
+    },
+    {
+      "name": "item9",
+      "file": "item9.f60f6c4f6b30.webp",
+      "sourceHash": "318951da79bd6388d6a94b951a6b7eed673f81b3711a402acda613067a3aa4de",
+      "originalBytes": 168012,
+      "bytes": 39676,
+      "width": 351,
+      "height": 280,
+      "alpha": true
+    },
+    {
+      "name": "journal-cup",
+      "file": "journal-cup.3192e3b7ac6e.webp",
+      "sourceHash": "fec9185e5734045488742d84e0e3056b318dc1066a7517798ebf391b70b40ac3",
+      "originalBytes": 46202,
+      "bytes": 5676,
+      "width": 173,
+      "height": 125,
+      "alpha": true
+    },
+    {
+      "name": "journal-dunhuang",
+      "file": "journal-dunhuang.6c87ac03291c.webp",
+      "sourceHash": "25eb633c0d9a7e679d2b770c4af1898528ebd6c6794f6952d26ad1ac6b4afc47",
+      "originalBytes": 60039,
+      "bytes": 9032,
+      "width": 192,
+      "height": 127,
+      "alpha": true
+    },
+    {
+      "name": "journal-empty",
+      "file": "journal-empty.06087f21e01d.webp",
+      "sourceHash": "994560e4920336732e11075465173e30e90cfe190032b68e51fbad5e8e7dde8e",
+      "originalBytes": 265722,
+      "bytes": 20094,
+      "width": 384,
+      "height": 316,
+      "alpha": true
+    },
+    {
+      "name": "journal-erhai",
+      "file": "journal-erhai.0739cbb086c1.webp",
+      "sourceHash": "1a58218d50d7bda60ccd53e54c0a99f50cbf3edbdc6e7d9f984b0917944fe814",
+      "originalBytes": 59605,
+      "bytes": 9306,
+      "width": 192,
+      "height": 126,
+      "alpha": true
+    },
+    {
+      "name": "journal-fan",
+      "file": "journal-fan.390602931d58.webp",
+      "sourceHash": "977aaf011fd662f4b5d590c5c83a9c4233eefdd1767a215c979db94c96787a0f",
+      "originalBytes": 48874,
+      "bytes": 5346,
+      "width": 177,
+      "height": 126,
+      "alpha": true
+    },
+    {
+      "name": "journal-huangshan",
+      "file": "journal-huangshan.c7f99dddac72.webp",
+      "sourceHash": "fe055d8b6100d7628952aa50f2922e1b0ed3a54ff0b45c86456b6f81bfca80e3",
+      "originalBytes": 61745,
+      "bytes": 9458,
+      "width": 192,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "journal-mountains",
+      "file": "journal-mountains.d377b07b2abd.webp",
+      "sourceHash": "19fe0eeea672a86ed88a9d2da7095f3d89cd922411beb90e1f8dda52dceab401",
+      "originalBytes": 42393,
+      "bytes": 3632,
+      "width": 384,
+      "height": 37,
+      "alpha": true
+    },
+    {
+      "name": "journal-palace",
+      "file": "journal-palace.212faba53250.webp",
+      "sourceHash": "c60a627fa3e3113f34982a4cb59d4dabcb4f6c1bc597a8c04897e079f74674ce",
+      "originalBytes": 58270,
+      "bytes": 8792,
+      "width": 192,
+      "height": 126,
+      "alpha": true
+    },
+    {
+      "name": "journal-panda",
+      "file": "journal-panda.48abf67a5e14.webp",
+      "sourceHash": "fb39f78654ad375bf9c3999f65dbb1349bd3ed45866d3578d451219b5e33c9da",
+      "originalBytes": 24556,
+      "bytes": 3424,
+      "width": 157,
+      "height": 66,
+      "alpha": true
+    },
+    {
+      "name": "journal-pouch",
+      "file": "journal-pouch.f91ff55ecf8e.webp",
+      "sourceHash": "bf2cfefbd9d845add97eaae1b51a504a3609b2b2a106da21e5af4bcd602c8946",
+      "originalBytes": 53054,
+      "bytes": 6702,
+      "width": 177,
+      "height": 130,
+      "alpha": true
+    },
+    {
+      "name": "journal-qingcheng",
+      "file": "journal-qingcheng.a263ad5d54cf.webp",
+      "sourceHash": "58a117c7f1e794938ef517feae285e8fdd5b636cb83ce6c77eae84704be2ca0d",
+      "originalBytes": 837246,
+      "bytes": 100440,
+      "width": 489,
+      "height": 702,
+      "alpha": true
+    },
+    {
+      "name": "journal-rabbit",
+      "file": "journal-rabbit.661bb9093490.webp",
+      "sourceHash": "68dfafb09f8ce39360c8b5a6dbcd3816e4644f2125f5c0981b033e308250c677",
+      "originalBytes": 48142,
+      "bytes": 5700,
+      "width": 174,
+      "height": 132,
+      "alpha": true
+    },
+    {
+      "name": "journal-westlake",
+      "file": "journal-westlake.24b2cff3b43b.webp",
+      "sourceHash": "84110027526478a625e295d0da8b0d694edae63b404a4356d69754ab6e8a2b50",
+      "originalBytes": 58383,
+      "bytes": 8714,
+      "width": 191,
+      "height": 130,
+      "alpha": true
+    },
+    {
+      "name": "lottery-jar",
+      "file": "lottery-jar.2f17ad24a1e4.webp",
+      "sourceHash": "a392cf6d56f8c222c5eec14acd515c1a44a91e39b5b0aa8684a5d04f5b2bbd2d",
+      "originalBytes": 1467308,
+      "bytes": 42370,
+      "width": 512,
+      "height": 512,
+      "alpha": true
+    },
+    {
+      "name": "lottery-pavilion",
+      "file": "lottery-pavilion.6baf9f14daf7.webp",
+      "sourceHash": "a59bba1e5c2faec3ea3b0b49eb52ec5d56580a3cd3395185a0d8b93e7db636a7",
+      "originalBytes": 406784,
+      "bytes": 154724,
+      "width": 800,
+      "height": 1421,
+      "alpha": false
+    },
+    {
+      "name": "motion-aguo-react",
+      "file": "motion-aguo-react.e336569bed0b.webp",
+      "sourceHash": "951f21fcdfb94875ec32d3387bedd28457fbba88294ef229b7d92e448dec3a79",
+      "originalBytes": 135778,
+      "bytes": 135778,
+      "width": 184,
+      "height": 180,
+      "alpha": true
+    },
+    {
+      "name": "motion-aguo",
+      "file": "motion-aguo.cc7ccf8d735c.webp",
+      "sourceHash": "af5554db6ba9509510cc3fdfa5507c6033627f9cfb375ff710e7588fc5691b78",
+      "originalBytes": 152900,
+      "bytes": 152900,
+      "width": 184,
+      "height": 180,
+      "alpha": true
+    },
+    {
+      "name": "motion-baiyu-react",
+      "file": "motion-baiyu-react.4fa0fffd9e90.webp",
+      "sourceHash": "618291565cc81b0e9e7c8d5705d1510fc49f91747d4b46ef841bc1def8328a6f",
+      "originalBytes": 152360,
+      "bytes": 152360,
+      "width": 184,
+      "height": 184,
+      "alpha": true
+    },
+    {
+      "name": "motion-baiyu",
+      "file": "motion-baiyu.63159bd027bf.webp",
+      "sourceHash": "8c97c16260a2009cf4e89d8781e4cea34d35085af3c1a7f17f39386b2ee70e03",
+      "originalBytes": 149704,
+      "bytes": 149704,
+      "width": 184,
+      "height": 184,
+      "alpha": true
+    },
+    {
+      "name": "motion-brush",
+      "file": "motion-brush.ace6d6c48509.webp",
+      "sourceHash": "e4b0122850edbd1cdbb5c3dc8e17ae6bd82076049e903906610c4548a5776d8e",
+      "originalBytes": 144310,
+      "bytes": 144310,
+      "width": 184,
+      "height": 184,
+      "alpha": true
+    },
+    {
+      "name": "motion-diary",
+      "file": "motion-diary.d6ccca317536.webp",
+      "sourceHash": "672aca3ef2290c211835b76b899c5b1e16f6da46e47e42bab056a9957a63447e",
+      "originalBytes": 158176,
+      "bytes": 158176,
+      "width": 184,
+      "height": 184,
+      "alpha": true
+    },
+    {
+      "name": "motion-door",
+      "file": "motion-door.936da90ebfd5.webp",
+      "sourceHash": "bdb770c03f205c59cde98b3da0b93827160db108ef0998474ed5962e085344af",
+      "originalBytes": 205360,
+      "bytes": 205360,
+      "width": 176,
+      "height": 184,
+      "alpha": true
+    },
+    {
+      "name": "motion-eat",
+      "file": "motion-eat.4fd94dc266f4.webp",
+      "sourceHash": "90fd87fb0355541501c31a076ca3a0e9077b487b90f82dacb7a5b75734ea7976",
+      "originalBytes": 135292,
+      "bytes": 135292,
+      "width": 184,
+      "height": 179,
+      "alpha": true
+    },
+    {
+      "name": "motion-fangfang-react",
+      "file": "motion-fangfang-react.aed7e7ba1e44.webp",
+      "sourceHash": "7895aab2e6767e2b9e6ed3004e1fa767fcebd7410e9e23d3e37174f64fcac0df",
+      "originalBytes": 159514,
+      "bytes": 159514,
+      "width": 181,
+      "height": 184,
+      "alpha": true
+    },
+    {
+      "name": "motion-fangfang",
+      "file": "motion-fangfang.b3b4f1b50928.webp",
+      "sourceHash": "26e2f75d1d36307711b4db544c78fa07a2e1a066e57a815b48bd0d5a71201f49",
+      "originalBytes": 136024,
+      "bytes": 136024,
+      "width": 184,
+      "height": 184,
+      "alpha": true
+    },
+    {
+      "name": "motion-jinjin-react",
+      "file": "motion-jinjin-react.b095bc2ae072.webp",
+      "sourceHash": "5de08331587382e22314dbbd4225ac15bb038e083e966d8e211007496c04a118",
+      "originalBytes": 135688,
+      "bytes": 135688,
+      "width": 184,
+      "height": 184,
+      "alpha": true
+    },
+    {
+      "name": "motion-jinjin",
+      "file": "motion-jinjin.00d872ec3349.webp",
+      "sourceHash": "f6821fd67f38a31de34c845bcb52854a05b44719ad5ee239d13d5093a1f15e1b",
+      "originalBytes": 179750,
+      "bytes": 179750,
+      "width": 180,
+      "height": 184,
+      "alpha": true
+    },
+    {
+      "name": "motion-read",
+      "file": "motion-read.0b8acffc4551.webp",
+      "sourceHash": "9ee12d8ac1098be6e7e4bfbec2b3fba76e06120b89c11521cd03759f72092889",
+      "originalBytes": 106420,
+      "bytes": 106420,
+      "width": 184,
+      "height": 168,
+      "alpha": true
+    },
+    {
+      "name": "motion-tea",
+      "file": "motion-tea.3a88a273de81.webp",
+      "sourceHash": "402df0eb970f978c42dd47261c9f40c656f71a57a419d5ba16ee6197ea223702",
+      "originalBytes": 149894,
+      "bytes": 149894,
+      "width": 184,
+      "height": 183,
+      "alpha": true
+    },
+    {
+      "name": "panda-sleep",
+      "file": "panda-sleep.c0253b0f95c4.webp",
+      "sourceHash": "ebf2d7e8dcdfa8fcc84224dfd1f4d8924fc1715923e355eaa8fd20c358c1e56f",
+      "originalBytes": 1465004,
+      "bytes": 44640,
+      "width": 640,
+      "height": 281,
+      "alpha": true
+    },
+    {
+      "name": "plant0",
+      "file": "plant0.a7e8fd2f7ae4.webp",
+      "sourceHash": "ea5579ba3ab6528f172985f1c7e0dcf30b79d3b978282f258558e6c6ff803237",
+      "originalBytes": 191067,
+      "bytes": 64222,
+      "width": 362,
+      "height": 355,
+      "alpha": true
+    },
+    {
+      "name": "plant1",
+      "file": "plant1.c6bd5dc1be27.webp",
+      "sourceHash": "fc8228289a75336940550be06033260c0a704a071e821a4a9fa6dc650d3312e3",
+      "originalBytes": 171475,
+      "bytes": 61930,
+      "width": 362,
+      "height": 355,
+      "alpha": true
+    },
+    {
+      "name": "pose-brush",
+      "file": "pose-brush.fe5abf40164e.webp",
+      "sourceHash": "aef948997cb5b6a2edf09e0e36d4c6eae5017a652dd62669f9c5bec6109a16e2",
+      "originalBytes": 78200,
+      "bytes": 38074,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "pose-diary",
+      "file": "pose-diary.8ce7232f5cc9.webp",
+      "sourceHash": "090b0422fac14171ce52baa223ce6e5c24309c3c16e68153ddb24782efeb39dd",
+      "originalBytes": 82548,
+      "bytes": 41448,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "pose-eat",
+      "file": "pose-eat.254d4217d34d.webp",
+      "sourceHash": "40e99c48c21005a1c5900683430cd2231c4921a774592c11e7e9129ad6533aa9",
+      "originalBytes": 73516,
+      "bytes": 36790,
+      "width": 384,
+      "height": 371,
+      "alpha": true
+    },
+    {
+      "name": "prop0",
+      "file": "prop0.2270a8af6032.webp",
+      "sourceHash": "dcadb7cc64e05592ed621526397087f486bcf7ed9860c2bf02144cb1978da0c0",
+      "originalBytes": 170601,
+      "bytes": 43720,
+      "width": 362,
+      "height": 362,
+      "alpha": true
+    },
+    {
+      "name": "prop1",
+      "file": "prop1.d25eab49ca95.webp",
+      "sourceHash": "0c18c20c9737281cc2e497c9954c609bbcb48ffc5a6ac83eede07b3287de32b0",
+      "originalBytes": 166122,
+      "bytes": 42986,
+      "width": 362,
+      "height": 362,
+      "alpha": true
+    },
+    {
+      "name": "prop4",
+      "file": "prop4.ed07ffa8ddd2.webp",
+      "sourceHash": "e63822548a1858763de3959ffbe65f06737315339ea1be6e37f5907a6993289c",
+      "originalBytes": 112606,
+      "bytes": 39828,
+      "width": 345,
+      "height": 362,
+      "alpha": true
+    },
+    {
+      "name": "prop5",
+      "file": "prop5.7ab02c6ba126.webp",
+      "sourceHash": "369e6db408830221a97832b165836821b9a9bb15cde5ac4b28275f8aa1c5dc24",
+      "originalBytes": 151419,
+      "bytes": 54992,
+      "width": 362,
+      "height": 362,
+      "alpha": true
+    },
+    {
+      "name": "prop6",
+      "file": "prop6.2d20901eb2b3.webp",
+      "sourceHash": "660a02a236cfd7337023f07efeda81d50aa06436fd02b185ae2736e28b43be91",
+      "originalBytes": 125047,
+      "bytes": 37716,
+      "width": 362,
+      "height": 362,
+      "alpha": true
+    },
+    {
+      "name": "prop8",
+      "file": "prop8.6fd917735c10.webp",
+      "sourceHash": "5cdcdbd8fab08823c1be722278250bf44c54c930c666476f7cfda03ad6c751d7",
+      "originalBytes": 194531,
+      "bytes": 44824,
+      "width": 362,
+      "height": 362,
+      "alpha": true
+    },
+    {
+      "name": "read0",
+      "file": "read0.a8ecea6930f4.webp",
+      "sourceHash": "8b5e9e849e93bd4756e8dabc4db44b830de78b7d895e356569d02d3b8a6a5795",
+      "originalBytes": 374845,
+      "bytes": 27892,
+      "width": 384,
+      "height": 347,
+      "alpha": true
+    },
+    {
+      "name": "read1",
+      "file": "read1.79eb9f6145dd.webp",
+      "sourceHash": "087b0f68932b93673c84ef9d4721bc7cf0d539ce33fcff9e8cc898ac0356f4ba",
+      "originalBytes": 385787,
+      "bytes": 28056,
+      "width": 384,
+      "height": 366,
+      "alpha": true
+    },
+    {
+      "name": "read2",
+      "file": "read2.2463f0f2fc67.webp",
+      "sourceHash": "fb1c214648fbf9b6492cdb49517e0d2c666019782de4f08c9e0bcd83ee4020ec",
+      "originalBytes": 372921,
+      "bytes": 31114,
+      "width": 384,
+      "height": 364,
+      "alpha": true
+    },
+    {
+      "name": "read3",
+      "file": "read3.5e346286202e.webp",
+      "sourceHash": "3cb44a6daaa28bc40fbc2da21b603a8f8b60af2195b49dd602d88b8106144228",
+      "originalBytes": 376045,
+      "bytes": 31638,
+      "width": 384,
+      "height": 376,
+      "alpha": true
+    },
+    {
+      "name": "read4",
+      "file": "read4.a4b467749992.webp",
+      "sourceHash": "941fdcb3bd0e14254ee1300d2e1597be0f5ae13ed2bb681ecd0dd118912d8a22",
+      "originalBytes": 385119,
+      "bytes": 29952,
+      "width": 384,
+      "height": 363,
+      "alpha": true
+    },
+    {
+      "name": "read5",
+      "file": "read5.12c9206a5092.webp",
+      "sourceHash": "d7a517027a77b4a23c2f9536fc6937f746fcf1a0597af76b2bb6899561bd9178",
+      "originalBytes": 368714,
+      "bytes": 28146,
+      "width": 360,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "room-day-v2",
+      "file": "room-day-v2.c9572da52dfb.webp",
+      "sourceHash": "4a20fd405d529c3e09be2509c5444c245f732179d4b4416dc1491c31d0dd422d",
+      "originalBytes": 517084,
+      "bytes": 174140,
+      "width": 800,
+      "height": 1421,
+      "alpha": false
+    },
+    {
+      "name": "room-night-v2",
+      "file": "room-night-v2.7222a738ea83.webp",
+      "sourceHash": "e058df309be077498833cc1cb384396f642eb8e414340accb0ed2d75afc4d9f3",
+      "originalBytes": 428752,
+      "bytes": 141326,
+      "width": 800,
+      "height": 1421,
+      "alpha": false
+    },
+    {
+      "name": "shoot-stage-0",
+      "file": "shoot-stage-0.e2dd68f7cb5d.webp",
+      "sourceHash": "e6cd6427fe78e64ec0b83b5eee05be42963d6603b8a3689a05f6dedd98bec95d",
+      "originalBytes": 49831,
+      "bytes": 16202,
+      "width": 172,
+      "height": 258,
+      "alpha": true
+    },
+    {
+      "name": "shoot-stage-1",
+      "file": "shoot-stage-1.e25c588a2289.webp",
+      "sourceHash": "d843ffe40fa7a23fafd5eea115a165b174344685f0c16fa2beb1f9cc3565b0bb",
+      "originalBytes": 89094,
+      "bytes": 24530,
+      "width": 200,
+      "height": 338,
+      "alpha": true
+    },
+    {
+      "name": "shoot-stage-2",
+      "file": "shoot-stage-2.66eaeab356fe.webp",
+      "sourceHash": "f103e1fb50b60ec8f232b3f7d74d433496fba20ba67ce49bc28897c47a5cf216",
+      "originalBytes": 126832,
+      "bytes": 32302,
+      "width": 240,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-bamboo-roll",
+      "file": "shop-bamboo-roll.d4cc8d7d0715.webp",
+      "sourceHash": "bfa7fb36233fa842b0bf10454d735390fc6ea56e216797a5ac303fea66e563b3",
+      "originalBytes": 186367,
+      "bytes": 36950,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-boat-ticket",
+      "file": "shop-boat-ticket.276ff1fa7e1c.webp",
+      "sourceHash": "614feb6b68adff6747b01a0637e9022f59cf9f23f00a5b184e54c527c976f7d9",
+      "originalBytes": 144175,
+      "bytes": 27204,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-bun",
+      "file": "shop-bun.9344f7379941.webp",
+      "sourceHash": "2bc02a01d75a6d747f3aa961bdffabb536fd63eff8323ce1272f3b087d800616",
+      "originalBytes": 127719,
+      "bytes": 24904,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-butter",
+      "file": "shop-butter.103f36227bea.webp",
+      "sourceHash": "5429258f318db0a52b36e36a7e4fc34678d7e26b7bf7823da282f0fbd6f77135",
+      "originalBytes": 214472,
+      "bytes": 41328,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-camel-bells",
+      "file": "shop-camel-bells.0c087663cd99.webp",
+      "sourceHash": "28670e2504267bae211bb5b7fd1e26f984313cbbc5cbfd2f6f76e5048b167c1e",
+      "originalBytes": 185274,
+      "bytes": 47544,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-clerk0",
+      "file": "shop-clerk0.8f1a1c592718.webp",
+      "sourceHash": "7fd8719b8e668bc523748ea554d1208b75fa0e93a5c7689d77378180600dfa47",
+      "originalBytes": 144036,
+      "bytes": 21770,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-clerk4",
+      "file": "shop-clerk4.1ed39aa93272.webp",
+      "sourceHash": "0faea490c3d13853ead90a917eddecd2191b75489f04bb50236468ce5d8bf3db",
+      "originalBytes": 144099,
+      "bytes": 21570,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-currency",
+      "file": "shop-currency.fdd2748b7339.webp",
+      "sourceHash": "4bc81d96560cfa24a9ab7c205948020ebaec7eb65f0fd09fd151fbf1f699429c",
+      "originalBytes": 63610,
+      "bytes": 14802,
+      "width": 185,
+      "height": 220,
+      "alpha": true
+    },
+    {
+      "name": "shop-feast",
+      "file": "shop-feast.8250a169c751.webp",
+      "sourceHash": "9e83282c6a81dcedf3acf69ca2461fff2c4d020d63836d4871917d6f73f56d5c",
+      "originalBytes": 242167,
+      "bytes": 46828,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-honey",
+      "file": "shop-honey.e32fbf2af43c.webp",
+      "sourceHash": "dd3f873874e7afb1b5c75d8f012d9ee30cff1af4b01f039df12ce49893743f00",
+      "originalBytes": 128359,
+      "bytes": 25230,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-imperial",
+      "file": "shop-imperial.aa7c0a5e5220.webp",
+      "sourceHash": "5f3ef64892af91d2ace9951ba0dfa0ed46c96ae924dfe66a11e7485c2a142fce",
+      "originalBytes": 287851,
+      "bytes": 55856,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-kettle",
+      "file": "shop-kettle.67c2939bb10b.webp",
+      "sourceHash": "988c4bafbabc8a9090b5808c49d820a46017f1daf74d223df31469f526f00894",
+      "originalBytes": 128435,
+      "bytes": 29872,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-lantern",
+      "file": "shop-lantern.971e25545938.webp",
+      "sourceHash": "c08efbec40f0ab2cb5df4c7b758761dba7d637576c3528e5fb9ea6471b2ab862",
+      "originalBytes": 110052,
+      "bytes": 31212,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-lotus",
+      "file": "shop-lotus.ecdebe0efa39.webp",
+      "sourceHash": "45a15612e0baa8f39591b620d4487999ad6c10a2b49df74d8fd03b9f17972949",
+      "originalBytes": 117407,
+      "bytes": 24280,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-mung",
+      "file": "shop-mung.0ffddf6221d7.webp",
+      "sourceHash": "a637f23dfd0b6835fa5c5496d2ec10dadb56ac50c63dbb7c9de0c7284f966363",
+      "originalBytes": 226666,
+      "bytes": 43146,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-opera",
+      "file": "shop-opera.fac5350b124a.webp",
+      "sourceHash": "320fb7a6f89be0ff348bdd4fe1810276462acbcd3a03552c2d981d8e2c3f82c4",
+      "originalBytes": 116227,
+      "bytes": 29446,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-redknot",
+      "file": "shop-redknot.44123454754a.webp",
+      "sourceHash": "c5bf5a75a08ef0bb0ce28416cf33daa16db20a07bfda4ec5eb8efe0240816c24",
+      "originalBytes": 83221,
+      "bytes": 25818,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-rice",
+      "file": "shop-rice.4b026dc9b821.webp",
+      "sourceHash": "46166342c3e8b060e86ec223c8597450d722d1e4e8d166bea9c6414161b4e859",
+      "originalBytes": 239360,
+      "bytes": 46244,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-sign",
+      "file": "shop-sign.7f332d3c44b2.webp",
+      "sourceHash": "7562adcece07be1e55f612b5145d918f43931036f7c57d0cd02f1a41957279e1",
+      "originalBytes": 55612,
+      "bytes": 37250,
+      "width": 740,
+      "height": 287,
+      "alpha": true
+    },
+    {
+      "name": "shop-sleeping-bag",
+      "file": "shop-sleeping-bag.49876f1ea996.webp",
+      "sourceHash": "8dea497fcbf698c4837fa8243a4e82dcc1afa45ad6d08e7e5e01761c8e3ac514",
+      "originalBytes": 217374,
+      "bytes": 40880,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-stall",
+      "file": "shop-stall.151edb7f862e.webp",
+      "sourceHash": "68b1efafb30fcf0f8ba00806f89f325853a5b27f35b4a9f931fd93a4927dcb0a",
+      "originalBytes": 181620,
+      "bytes": 82368,
+      "width": 880,
+      "height": 314,
+      "alpha": true
+    },
+    {
+      "name": "shop-tent",
+      "file": "shop-tent.45bee065c400.webp",
+      "sourceHash": "8a42cab0d3d98569f45a7749725ee0defd18366e17980bce7b6090c7ed9e9b22",
+      "originalBytes": 155540,
+      "bytes": 32266,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-umbrella",
+      "file": "shop-umbrella.9cf7fa530401.webp",
+      "sourceHash": "a8e38eba0942dfbc2a9eeeb5b51e885ed61638352a5e9bb1684ed74604231be8",
+      "originalBytes": 156424,
+      "bytes": 33304,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-vase",
+      "file": "shop-vase.39ac2f2a3549.webp",
+      "sourceHash": "d3f964a797d5b322a282d0edfe3408e07686183dbbb5fa689e24f6a22fee7b3c",
+      "originalBytes": 92273,
+      "bytes": 26100,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-walking-stick",
+      "file": "shop-walking-stick.63d7d3012f4f.webp",
+      "sourceHash": "b7eb5de27669ed89201b1bbdd06a24c6f016550364a981d92d089edcf51658b9",
+      "originalBytes": 94239,
+      "bytes": 28756,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "shop-wrap",
+      "file": "shop-wrap.2fc4a933b975.webp",
+      "sourceHash": "83935628587d9f770b6850754b48c665690031cda0dca036381f6cebaa49d202",
+      "originalBytes": 158345,
+      "bytes": 29334,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "souvenir9",
+      "file": "souvenir9.e11802ed8590.webp",
+      "sourceHash": "4ffcc49a8bd581f1816c876077fd3aa0d39cb7883beb3e9af7d39a269c3f845a",
+      "originalBytes": 150503,
+      "bytes": 26050,
+      "width": 365,
+      "height": 256,
+      "alpha": true
+    },
+    {
+      "name": "tea0",
+      "file": "tea0.6e7e838ced48.webp",
+      "sourceHash": "cbcac5ce281145ccf0c84c5d1143ed2ab9f33f193e21d9ad7c11fd12dc563af4",
+      "originalBytes": 424700,
+      "bytes": 36800,
+      "width": 384,
+      "height": 382,
+      "alpha": true
+    },
+    {
+      "name": "tea1",
+      "file": "tea1.14cbacf64acd.webp",
+      "sourceHash": "642ae19bea7e4e82146c957b56ebd448476ad543b2becb4ad38f39d1f4a2a927",
+      "originalBytes": 410667,
+      "bytes": 38924,
+      "width": 384,
+      "height": 375,
+      "alpha": true
+    },
+    {
+      "name": "tea2",
+      "file": "tea2.c696b6b19dab.webp",
+      "sourceHash": "2b47268bd8dc213c0d0131eccd4182467ea79f0e01f7cdedc552778ad649a7cd",
+      "originalBytes": 401310,
+      "bytes": 41458,
+      "width": 379,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "tea3",
+      "file": "tea3.7f61d5433ab3.webp",
+      "sourceHash": "43864a373de2966e4b8ca333d080879fcd46901dfb6bbd36176fe9b63c95d672",
+      "originalBytes": 416694,
+      "bytes": 36078,
+      "width": 384,
+      "height": 371,
+      "alpha": true
+    },
+    {
+      "name": "tea4",
+      "file": "tea4.1928b2879ffb.webp",
+      "sourceHash": "9f23230cf04b6449505c20aaf9fb4f1fee3a9c28b024697e9519d448dcf699c9",
+      "originalBytes": 415597,
+      "bytes": 36076,
+      "width": 384,
+      "height": 376,
+      "alpha": true
+    },
+    {
+      "name": "tea5",
+      "file": "tea5.d1b732856f04.webp",
+      "sourceHash": "9a0363ee86482cffee5285fe80bcc45430448a7a8651b122b574d4de72c61cbb",
+      "originalBytes": 399022,
+      "bytes": 36692,
+      "width": 347,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-action-1",
+      "file": "travel-action-1.7053c5511c15.webp",
+      "sourceHash": "a22d85d681712ef75a913e007f9c9d2e401e68a34e21add31439d7786ed5bb60",
+      "originalBytes": 51114,
+      "bytes": 39588,
+      "width": 332,
+      "height": 350,
+      "alpha": true
+    },
+    {
+      "name": "travel-action-10",
+      "file": "travel-action-10.e99afc27a2ce.webp",
+      "sourceHash": "397bf6b30333a97a85b1dff59ba74f16b4eb346e3ac886b6b452b25f6d5e20d3",
+      "originalBytes": 50992,
+      "bytes": 39120,
+      "width": 335,
+      "height": 357,
+      "alpha": true
+    },
+    {
+      "name": "travel-action-2",
+      "file": "travel-action-2.500acd2b0324.webp",
+      "sourceHash": "8ca8fe110b913dfc9dbaa9b4c0b2e0a4da681c9a56b626961f84c5c71453db26",
+      "originalBytes": 33986,
+      "bytes": 24726,
+      "width": 268,
+      "height": 301,
+      "alpha": true
+    },
+    {
+      "name": "travel-action-3",
+      "file": "travel-action-3.86af06648571.webp",
+      "sourceHash": "be6a1376f419ed63b003a07b5fddda21de46d768187e72d7105dd6f162bc2fb2",
+      "originalBytes": 43880,
+      "bytes": 33060,
+      "width": 269,
+      "height": 353,
+      "alpha": true
+    },
+    {
+      "name": "travel-action-4",
+      "file": "travel-action-4.37fa958eb792.webp",
+      "sourceHash": "817bdb795105ed4560ff568afc862294a1979f1d284c162ec9604ba247af1f55",
+      "originalBytes": 45120,
+      "bytes": 33472,
+      "width": 287,
+      "height": 326,
+      "alpha": true
+    },
+    {
+      "name": "travel-action-5",
+      "file": "travel-action-5.957b3fd2917e.webp",
+      "sourceHash": "1a5195638443f3edf04fbd20934b28a77851770d2a943cdfe6cb2c79e38fa4c4",
+      "originalBytes": 53290,
+      "bytes": 40398,
+      "width": 319,
+      "height": 367,
+      "alpha": true
+    },
+    {
+      "name": "travel-action-6",
+      "file": "travel-action-6.59f735159bbf.webp",
+      "sourceHash": "aba484889cd52bfbb4c18c6b45e8d7b27c6525c84acc3e8fa6182b845c1a7766",
+      "originalBytes": 47938,
+      "bytes": 43754,
+      "width": 384,
+      "height": 362,
+      "alpha": true
+    },
+    {
+      "name": "travel-action-7",
+      "file": "travel-action-7.4e0402889a39.webp",
+      "sourceHash": "542eb947facf47eaf138edd946d3af0926d07865667b093ed1b50c9b2ba0d812",
+      "originalBytes": 44506,
+      "bytes": 33326,
+      "width": 310,
+      "height": 330,
+      "alpha": true
+    },
+    {
+      "name": "travel-action-8",
+      "file": "travel-action-8.613059ec08be.webp",
+      "sourceHash": "b2716b3a0a902f045da1a487f6a1bac59f0afc15b9c42024ce719385bfa4ff82",
+      "originalBytes": 47544,
+      "bytes": 36208,
+      "width": 315,
+      "height": 344,
+      "alpha": true
+    },
+    {
+      "name": "travel-action-9",
+      "file": "travel-action-9.d0bd12bf3fd4.webp",
+      "sourceHash": "8f0fbdbcf2594c62a42f92f338c6cc24c88cd621ea44d004bbd5e9b258404706",
+      "originalBytes": 53728,
+      "bytes": 41684,
+      "width": 310,
+      "height": 337,
+      "alpha": true
+    },
+    {
+      "name": "travel-card-3001",
+      "file": "travel-card-3001.560960446d56.webp",
+      "sourceHash": "ed4f1f1ebbc292b7b846cf13a6dd9b43ae8e39f75c2118f0ecdfd04e3e82f92c",
+      "originalBytes": 435144,
+      "bytes": 337472,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3002",
+      "file": "travel-card-3002.434ede037dd3.webp",
+      "sourceHash": "b6b6a300e24a2055c0d689e77f0fb1a2d5a2f7f52da83817e568f470562943fa",
+      "originalBytes": 412322,
+      "bytes": 302846,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3003",
+      "file": "travel-card-3003.8a7b805663a1.webp",
+      "sourceHash": "89aace0b647e290525161ff1e033cbdf76ac32b5c6a46e89faf88f2fa9572196",
+      "originalBytes": 469922,
+      "bytes": 357564,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3004",
+      "file": "travel-card-3004.fe7de5137901.webp",
+      "sourceHash": "b2b0e9d4be0b36c3987fb26955487a161d6758d57cd594391883599cbca90100",
+      "originalBytes": 415008,
+      "bytes": 309298,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3005",
+      "file": "travel-card-3005.7011477ace12.webp",
+      "sourceHash": "2899ef75b4f9819b25a26824ddb3f5fe8a759679c746e4bbc8361fa4a91078d6",
+      "originalBytes": 443676,
+      "bytes": 338630,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3006",
+      "file": "travel-card-3006.af38289afea0.webp",
+      "sourceHash": "b0f72c858953b4c70c1fb81226922fa841b11c86647a0f41ec908d7d5e2f33c1",
+      "originalBytes": 394160,
+      "bytes": 290424,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3007",
+      "file": "travel-card-3007.0cbe884bbeba.webp",
+      "sourceHash": "43040f61aa5e52a45b734309e1aa904d98d6a8bbe4a5b02786ba476001d255cf",
+      "originalBytes": 388128,
+      "bytes": 290686,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3008",
+      "file": "travel-card-3008.410f6e5ec535.webp",
+      "sourceHash": "8725481ab3c35224669a88fe38e46aecada3f4e1983459cc1de8e0b49c4c158e",
+      "originalBytes": 461710,
+      "bytes": 355576,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3009",
+      "file": "travel-card-3009.31a10c84e455.webp",
+      "sourceHash": "746903a7b0675d6d6b7e7eb6d7680c11bb601790f32f2140560a71e00f277c7f",
+      "originalBytes": 439374,
+      "bytes": 331386,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3010",
+      "file": "travel-card-3010.428451b96340.webp",
+      "sourceHash": "7e03eeeac0ea9f5476ab9d7ef205df32590f39ceed2145c1cecf9bb185843f71",
+      "originalBytes": 401498,
+      "bytes": 305742,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3011",
+      "file": "travel-card-3011.1bfb7e3559f6.webp",
+      "sourceHash": "ba7667d28d0c462fa1392f14ee1278d31e65594248c3613bb8e5fc7d3415dc60",
+      "originalBytes": 431764,
+      "bytes": 328576,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3012",
+      "file": "travel-card-3012.98d041c7428a.webp",
+      "sourceHash": "48759e353e09ff53459d9ee381c2eb2fbf094459067870ba59d674c696468348",
+      "originalBytes": 415662,
+      "bytes": 305098,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3013",
+      "file": "travel-card-3013.edede668ffd3.webp",
+      "sourceHash": "dac4ce24bd6064e463e98d0c0237e48fbd5ebac85d4230f2ea50df207b827561",
+      "originalBytes": 421976,
+      "bytes": 318856,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3014",
+      "file": "travel-card-3014.b7af58cad3b9.webp",
+      "sourceHash": "c9182106859cf1dbe89506311da84fbaf6e1dae7afdca3900f85806b7b3da78d",
+      "originalBytes": 422726,
+      "bytes": 323754,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3015",
+      "file": "travel-card-3015.b2d1676f2fdf.webp",
+      "sourceHash": "76305380c4d288f0d6644b410308c7610dcd838b6d81d805f9c771a3848c232b",
+      "originalBytes": 479382,
+      "bytes": 366724,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3016",
+      "file": "travel-card-3016.f3a55387e98f.webp",
+      "sourceHash": "72da4b3060494bb69a8883d6a074eb36ac6be86b70b49ece30862a79c78a5fb9",
+      "originalBytes": 427012,
+      "bytes": 324318,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3017",
+      "file": "travel-card-3017.37efc540a754.webp",
+      "sourceHash": "16db4a401c161ca9976c1fbb578f820c6d4fdc794339a6640b06323b8aedda4e",
+      "originalBytes": 395570,
+      "bytes": 303764,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3018",
+      "file": "travel-card-3018.b18cf2cd10c1.webp",
+      "sourceHash": "8ea158987c584c6ccf69e1b119fcafcba53762068b90d736d0711176e1738e50",
+      "originalBytes": 416900,
+      "bytes": 312716,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3019",
+      "file": "travel-card-3019.43f4e0a060d2.webp",
+      "sourceHash": "fd2f9a414ebb5625a11c5c3c516dcc751b58e3cd2cc0642808b7af0cb40740e4",
+      "originalBytes": 412572,
+      "bytes": 310300,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3020",
+      "file": "travel-card-3020.3e840a49ba97.webp",
+      "sourceHash": "4734b6769b3ed886e58aee4efdb3f7de01001644fa243c26d33d0c6c301af209",
+      "originalBytes": 421706,
+      "bytes": 310704,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3021",
+      "file": "travel-card-3021.68881c58d177.webp",
+      "sourceHash": "65bce0127857ff4cd81a79083f71dd02f6d125a8d252fddc4868b229eb09b688",
+      "originalBytes": 425500,
+      "bytes": 320156,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3022",
+      "file": "travel-card-3022.351633e16f87.webp",
+      "sourceHash": "7b75a1a57daef16c72647f153023d13d533bad4722b5492e433711b6c4280ed7",
+      "originalBytes": 360816,
+      "bytes": 268730,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3023",
+      "file": "travel-card-3023.12927a000e16.webp",
+      "sourceHash": "3ee8cd2cca224befae5fe639c930ef217f82728b0849039296fdea2a55388c5a",
+      "originalBytes": 429022,
+      "bytes": 314116,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3024",
+      "file": "travel-card-3024.2a1aa18c07a8.webp",
+      "sourceHash": "1e9399b7185ffa49cb74b81d12eae54c556c189cf0963c168d1da1457f3e05c0",
+      "originalBytes": 418022,
+      "bytes": 319988,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3025",
+      "file": "travel-card-3025.969ecb536f30.webp",
+      "sourceHash": "50a8c062c69983b72e82ba2b6b6d1fa077d4fee30a05aa8b7611e54b6ab10b8c",
+      "originalBytes": 427604,
+      "bytes": 325244,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3026",
+      "file": "travel-card-3026.0eb048e3f49a.webp",
+      "sourceHash": "cc9a574fc7fc778986a4e398bed773b16edff9b360eb4a827b3ce5f9fe95117c",
+      "originalBytes": 408150,
+      "bytes": 290268,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3027",
+      "file": "travel-card-3027.03bba24920c7.webp",
+      "sourceHash": "0ab92df6c9afdb4aeb7c323cf90a813bdb52f9bd811656286111c637e91a8c46",
+      "originalBytes": 294132,
+      "bytes": 202608,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3028",
+      "file": "travel-card-3028.3684accb5e6e.webp",
+      "sourceHash": "038a7589e88fc57b69459595ab10c03754014dfee19e1edea56226b48d49fc52",
+      "originalBytes": 327016,
+      "bytes": 225450,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3029",
+      "file": "travel-card-3029.6254eb560af7.webp",
+      "sourceHash": "a77c72c76ddd715a591804981294852bf86781a362273231abebf67a8231a607",
+      "originalBytes": 471788,
+      "bytes": 352398,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-3030",
+      "file": "travel-card-3030.f0ef87230f73.webp",
+      "sourceHash": "1dfe516b9f395bf62529473518b78ae92f39f6f993764fc17e9728dcf109d769",
+      "originalBytes": 360928,
+      "bytes": 250418,
+      "width": 1200,
+      "height": 900,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-ssr-01",
+      "file": "travel-card-ssr-01.653a7e0c44c5.webp",
+      "sourceHash": "bef1d3e6624943cf19035b227cf11790c9c273f494550c7ce693416a447980f1",
+      "originalBytes": 479526,
+      "bytes": 204398,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-ssr-02",
+      "file": "travel-card-ssr-02.f6239f9d064b.webp",
+      "sourceHash": "42000ff88a827aec1a8b8534a3fd12239c55322df71306ce4785b0186f1a5d64",
+      "originalBytes": 515696,
+      "bytes": 228578,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-ssr-03",
+      "file": "travel-card-ssr-03.3b93e8849c53.webp",
+      "sourceHash": "0b18a322096cc3c37573a82150d2d393054b4cec76ec4900e678c414b13b07cb",
+      "originalBytes": 498424,
+      "bytes": 211506,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-ssr-04",
+      "file": "travel-card-ssr-04.eb872bcdd6af.webp",
+      "sourceHash": "0e956b149d3e642256cfd4962f1609c6ac6a7626840b0bc4bd39ebef4b8123ee",
+      "originalBytes": 516656,
+      "bytes": 238012,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-ssr-05",
+      "file": "travel-card-ssr-05.e636764f7d1d.webp",
+      "sourceHash": "1d393830b69d7c202f2e4f58f3aca0f0ee9bdfe007cc18f5796d2822b7cf2a35",
+      "originalBytes": 455278,
+      "bytes": 181608,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-ssr-06",
+      "file": "travel-card-ssr-06.1b520bee9b08.webp",
+      "sourceHash": "2a860b2835b217ed0118baab7bb1a2bc7218cb15ecf832c4e75693f0823dae9f",
+      "originalBytes": 488090,
+      "bytes": 212594,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-ssr-07",
+      "file": "travel-card-ssr-07.9235d6f1377b.webp",
+      "sourceHash": "02489248a28fd7544f91db80fa5fbcfa97b2fb70e4b1347fca028d1cc6406014",
+      "originalBytes": 517802,
+      "bytes": 237688,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-ssr-08",
+      "file": "travel-card-ssr-08.c467de81acbf.webp",
+      "sourceHash": "10ca0431786b3d7f2bee079a97c2e607f10ec6320de4561b719572e83705da14",
+      "originalBytes": 503180,
+      "bytes": 229358,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-ssr-09",
+      "file": "travel-card-ssr-09.fb3a2f563344.webp",
+      "sourceHash": "634e643129795ec5a3427f3192ff5db512923baac8625c151033796479c0316f",
+      "originalBytes": 480224,
+      "bytes": 198516,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-card-ssr-10",
+      "file": "travel-card-ssr-10.638fb7fcaaf2.webp",
+      "sourceHash": "91068cc6f567268a54c7881e2ca25a9fb10b3e5585a358be99cdb517eb657b1a",
+      "originalBytes": 547490,
+      "bytes": 266676,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-friend-aguo",
+      "file": "travel-friend-aguo.767ddeac7b1b.webp",
+      "sourceHash": "e3f95a7f9b6346ed8d968e09797a410238ac942eed8fe1f32d305bd81d3ab1e6",
+      "originalBytes": 357820,
+      "bytes": 176664,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-friend-baiyu",
+      "file": "travel-friend-baiyu.4b1f4303bdbe.webp",
+      "sourceHash": "c9f6f680c2ebcdc8f7eef20ce4ddc0e78639aa90ebf8966c6b4be272832c36a1",
+      "originalBytes": 340418,
+      "bytes": 163204,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-friend-fangfang",
+      "file": "travel-friend-fangfang.5b2d45d35231.webp",
+      "sourceHash": "0019ac37f56d5a50ddc02c6cdbe179080f3649dd79d727f118434791e9472895",
+      "originalBytes": 353940,
+      "bytes": 170154,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-friend-jinjin",
+      "file": "travel-friend-jinjin.088ee28ee6f0.webp",
+      "sourceHash": "7c25014272c6b50ed419407111de236740a6821cd20dcd78271dad9c5a97bdba",
+      "originalBytes": 363086,
+      "bytes": 174856,
+      "width": 1200,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "name": "travel-gift-5001",
+      "file": "travel-gift-5001.3356d607e1fa.webp",
+      "sourceHash": "cd8feff6d142adc5129035198c73a6433d10ab646a4fecd2628ec12e430091b9",
+      "originalBytes": 69278,
+      "bytes": 44190,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-gift-5002",
+      "file": "travel-gift-5002.b4b548ebdbe7.webp",
+      "sourceHash": "1ef0818250d540845247592b925c1634cd34549606c2f87a4e3bd3ff2e94fc50",
+      "originalBytes": 39324,
+      "bytes": 23100,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-gift-5003",
+      "file": "travel-gift-5003.ca05b35f49ec.webp",
+      "sourceHash": "0b879a5dce89711eccfecf610e256b5f8ad73c55fa41c343ba7b185363522a6e",
+      "originalBytes": 65158,
+      "bytes": 37494,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-gift-5005",
+      "file": "travel-gift-5005.e7d75a147f35.webp",
+      "sourceHash": "89d48153a69b87b61bcdc968be19868c0d74c4a7f27b6ceb28b68fa357b2b369",
+      "originalBytes": 79562,
+      "bytes": 44870,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-gift-5006",
+      "file": "travel-gift-5006.2349423d8dca.webp",
+      "sourceHash": "00df4144414a039a6ed074a7912a64efa5eff51a15c8b9b6ebb972416dec72d3",
+      "originalBytes": 61890,
+      "bytes": 34534,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-gift-5007",
+      "file": "travel-gift-5007.d22fbe913bd8.webp",
+      "sourceHash": "548862715b916db44e329432400c81483b9d8fe666fd141a602fc4de254b67da",
+      "originalBytes": 83330,
+      "bytes": 47634,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-gift-5008",
+      "file": "travel-gift-5008.7a19f29d8565.webp",
+      "sourceHash": "5c66316563ec5ab257fce838b394156310e559d75ea38a5645e5140ae73adda1",
+      "originalBytes": 69086,
+      "bytes": 39718,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-gift-5009",
+      "file": "travel-gift-5009.d85642d845ab.webp",
+      "sourceHash": "9e5b3c4a30705fc081779d1fc1e4e43949161040ac26b411140ff84fcf8ee8c9",
+      "originalBytes": 84288,
+      "bytes": 47470,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-gift-5010",
+      "file": "travel-gift-5010.cdaf364955c9.webp",
+      "sourceHash": "315483cdf6dc62c8157807f92d1bb82ba9944b0828633e4783516424e266e914",
+      "originalBytes": 95056,
+      "bytes": 51468,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-gift-5011",
+      "file": "travel-gift-5011.b4df23def76d.webp",
+      "sourceHash": "d85262c3472743a26227e8ae098edfaef54131e6d7a960c7ac942791caf8dc67",
+      "originalBytes": 67698,
+      "bytes": 42296,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-gift-5012",
+      "file": "travel-gift-5012.d6c3b063ca65.webp",
+      "sourceHash": "d0eabe8ad80c00e3d79567ff5957a8dd30d209a1a9c2f24b635b247d54a83c7b",
+      "originalBytes": 2378981,
+      "bytes": 45012,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-gift-5013",
+      "file": "travel-gift-5013.3d51ec4997bd.webp",
+      "sourceHash": "b8c80c4019ed2d8b5cc9bf2460de0db03eec7aac94d06f61d81d7078f214668c",
+      "originalBytes": 80432,
+      "bytes": 45798,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-gift-5014",
+      "file": "travel-gift-5014.9697df23f861.webp",
+      "sourceHash": "5074b242b218418098b6529242d7fd288b048f99e81518a85b0315d248243757",
+      "originalBytes": 97302,
+      "bytes": 57414,
+      "width": 384,
+      "height": 384,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3001",
+      "file": "travel-landmark-3001.191fbace0876.webp",
+      "sourceHash": "2458a3b6b18a0e014f28334878d6b75fa470cd84d5d2cb0ba84b5a66e006d9eb",
+      "originalBytes": 332016,
+      "bytes": 118758,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3002",
+      "file": "travel-landmark-3002.1e7b2bd38b36.webp",
+      "sourceHash": "2df5142991a428311f7fdff88556e5e9536e0b650cfe5666dff1d0127fe23dd5",
+      "originalBytes": 276234,
+      "bytes": 81154,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3003",
+      "file": "travel-landmark-3003.2a39523d97c6.webp",
+      "sourceHash": "ae17b1928c358cac98fb355dbf85f01bb97e8703ea05ec25da6f9f2149e9e9b5",
+      "originalBytes": 344702,
+      "bytes": 117020,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3004",
+      "file": "travel-landmark-3004.b6f3c74ad09f.webp",
+      "sourceHash": "40b07f4b440505ce8d6c94a39746d55d279734223dc902e8f658aca750a26e1a",
+      "originalBytes": 315792,
+      "bytes": 106952,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3005",
+      "file": "travel-landmark-3005.d25067406baa.webp",
+      "sourceHash": "a46f1044ce2c5783a08bdaec5155baabac4cc2924406102d94c4deb5c0f6f57d",
+      "originalBytes": 395278,
+      "bytes": 152544,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3006",
+      "file": "travel-landmark-3006.36c52f420a8e.webp",
+      "sourceHash": "89d09bd5028ac40693433b03db9b35e388a48e8cf501a415a81693e6f64a95f5",
+      "originalBytes": 258280,
+      "bytes": 73654,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3007",
+      "file": "travel-landmark-3007.584dbaa512b2.webp",
+      "sourceHash": "f58d79210862133b5e71d66c489282ff8bf62ac3917740914fc1be0e4cef0bdf",
+      "originalBytes": 290416,
+      "bytes": 98644,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3008",
+      "file": "travel-landmark-3008.5668a80ebc29.webp",
+      "sourceHash": "a2fb8549588c12c319afd55a083cc2e3b722714d83cd31fd3746799a14c40904",
+      "originalBytes": 317420,
+      "bytes": 104516,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3009",
+      "file": "travel-landmark-3009.0209a25a3283.webp",
+      "sourceHash": "b84a2b4fef904b7dda1b15e9b2a9f444e42ef126286e940b29df17c1b00a576b",
+      "originalBytes": 313696,
+      "bytes": 103058,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3010",
+      "file": "travel-landmark-3010.48dfed7cfd83.webp",
+      "sourceHash": "72f0f7d40947205fd571431a994e2e1566ff0a1292997ec2c849425f262f27a3",
+      "originalBytes": 262658,
+      "bytes": 81528,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3011",
+      "file": "travel-landmark-3011.4f35250128d0.webp",
+      "sourceHash": "766629cb6d4c6fa6cc0273f6daf66f7d6674861911050800754f1884fe65f359",
+      "originalBytes": 317210,
+      "bytes": 107700,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3012",
+      "file": "travel-landmark-3012.a52528b2455f.webp",
+      "sourceHash": "d038ee9fa0d7c5c859be22626b9e3ffc531bedd8e5a2e59a16914ad6af8f159e",
+      "originalBytes": 280848,
+      "bytes": 88874,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3013",
+      "file": "travel-landmark-3013.70d7a895bd26.webp",
+      "sourceHash": "a14b3e99b9535fc170655bde4626944784140c924d0ceaa86abe95c109830b3c",
+      "originalBytes": 285514,
+      "bytes": 88248,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3014",
+      "file": "travel-landmark-3014.ed9a581ab0ce.webp",
+      "sourceHash": "7b82615dcff15b6ac7e3f69a65cc6369b5d7512ef8325236027373bc81a95410",
+      "originalBytes": 284632,
+      "bytes": 87810,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3015",
+      "file": "travel-landmark-3015.0163ed33ea6f.webp",
+      "sourceHash": "a7b9eaaf8fb99fb49490ea273efcba8e4e68180907242fda8a6d9f5a27bd07dd",
+      "originalBytes": 316994,
+      "bytes": 97352,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3016",
+      "file": "travel-landmark-3016.e16c69a16802.webp",
+      "sourceHash": "fe3ace8d692bda36e23622af07008d89b3e6f938bde503aae177d2147601ba2e",
+      "originalBytes": 295366,
+      "bytes": 95356,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3017",
+      "file": "travel-landmark-3017.c66d6b9908ad.webp",
+      "sourceHash": "747a1b6b08802a73707857b9f332ac554df5208177552a20c1572524409cbd39",
+      "originalBytes": 307284,
+      "bytes": 103498,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3018",
+      "file": "travel-landmark-3018.0be1ca89ba2d.webp",
+      "sourceHash": "bbcc660500d2f0d4f1f976259f7c34bddd2ac777ba841f51a4510462d4d5d0bb",
+      "originalBytes": 297928,
+      "bytes": 95612,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3019",
+      "file": "travel-landmark-3019.4fda19e2beef.webp",
+      "sourceHash": "47594a46c7694af36b37132a47fd99ad516218e0a22b2494d985108dc1e2fb5c",
+      "originalBytes": 293892,
+      "bytes": 97238,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3020",
+      "file": "travel-landmark-3020.ab7a4c032e5c.webp",
+      "sourceHash": "64a9fa09e426429bba894ff1c4993b9cb2734a22f1de39c349ee252389f53fb1",
+      "originalBytes": 292396,
+      "bytes": 94214,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3021",
+      "file": "travel-landmark-3021.3ab1ead9f8f9.webp",
+      "sourceHash": "5960cc388782f7c3660f73cf02fff840f121eec54453af265307b5146e333098",
+      "originalBytes": 337094,
+      "bytes": 118242,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3022",
+      "file": "travel-landmark-3022.908a376b7fc8.webp",
+      "sourceHash": "e295696ade911f21185e8bd8963cbebc15960b44e122a8e0bc0f5a6011b2ee3a",
+      "originalBytes": 295298,
+      "bytes": 107484,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3023",
+      "file": "travel-landmark-3023.a0c181a3e217.webp",
+      "sourceHash": "5e555877df2d347ddf66fe48253d696b6a93a54d132124b447559e6e2505474d",
+      "originalBytes": 285680,
+      "bytes": 85538,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3024",
+      "file": "travel-landmark-3024.75d5076aef61.webp",
+      "sourceHash": "0f75fab6a5eb0aa75991bac08ae8b552705e5951e4694ef8f8a58bd9fb8d6f50",
+      "originalBytes": 292372,
+      "bytes": 92742,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3025",
+      "file": "travel-landmark-3025.b39ebc81ea13.webp",
+      "sourceHash": "6ec6a68b0c7036aed064f2d5fabdf9f8dc3409cb37a6394357f1f998e05c654f",
+      "originalBytes": 285984,
+      "bytes": 87928,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3026",
+      "file": "travel-landmark-3026.af9ba99c358e.webp",
+      "sourceHash": "d4db924a2907bd2a1c39d83216d98a664240a38ba815f580a59749c5f987de1c",
+      "originalBytes": 263540,
+      "bytes": 73072,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3027",
+      "file": "travel-landmark-3027.f9eea7ec29ba.webp",
+      "sourceHash": "521f1865b05875006a250e2123a69a9c24cdb2d257ab616b1e45c47a79a1200f",
+      "originalBytes": 184564,
+      "bytes": 52548,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3028",
+      "file": "travel-landmark-3028.30c391d49464.webp",
+      "sourceHash": "5fa7118afdd636ae9e8924bcb09f78e675369a0b33dc66fad7a6315d6d2c1f8b",
+      "originalBytes": 207440,
+      "bytes": 54934,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3029",
+      "file": "travel-landmark-3029.5d789edd36d5.webp",
+      "sourceHash": "b4127f4919e34569703d14b3484cfe14f616be5603b752f7fae7a06aef73a670",
+      "originalBytes": 353348,
+      "bytes": 125052,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "travel-landmark-3030",
+      "file": "travel-landmark-3030.454ca0a67833.webp",
+      "sourceHash": "752d2cd532c107b16da8f3e3a049a16f4b0ad79ffb720bb92ba027b020ef75fb",
+      "originalBytes": 252074,
+      "bytes": 78808,
+      "width": 640,
+      "height": 480,
+      "alpha": true
+    },
+    {
+      "name": "ui-wood-plaque",
+      "file": "ui-wood-plaque.06838af5401c.webp",
+      "sourceHash": "783f9f9b22d29d7b6e95432b7b923dbf3d0dee1b3b4ecd653bc0f039782d65bf",
+      "originalBytes": 420800,
+      "bytes": 18966,
+      "width": 384,
+      "height": 247,
+      "alpha": true
+    },
+    {
+      "name": "weather0",
+      "file": "weather0.fb395c768777.webp",
+      "sourceHash": "9a44ae11fc7bfb78144425a1c0e45e590fe3c4d387a4ab1a8e3116cfcd1581c3",
+      "originalBytes": 223410,
+      "bytes": 4984,
+      "width": 121,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "weather1",
+      "file": "weather1.d47ffa7b1b96.webp",
+      "sourceHash": "b452c5a08034e1548b47bf398e9a2eeadbba3439ae0ebfc04084f3fcb6da4b2b",
+      "originalBytes": 309069,
+      "bytes": 5776,
+      "width": 128,
+      "height": 126,
+      "alpha": true
+    },
+    {
+      "name": "weather2",
+      "file": "weather2.945147b31bc4.webp",
+      "sourceHash": "c9c8a7ec400d0e837f757784f7819923cd7185527f75a84a7421c33489815344",
+      "originalBytes": 285436,
+      "bytes": 5384,
+      "width": 126,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "weather3",
+      "file": "weather3.d92866c37b4e.webp",
+      "sourceHash": "0ebd14d9769f9756a4252b53878d882c5e5e1db4213be43a18fff85b4799cbf2",
+      "originalBytes": 263522,
+      "bytes": 4940,
+      "width": 128,
+      "height": 107,
+      "alpha": true
+    },
+    {
+      "name": "weather4",
+      "file": "weather4.31da901a5d8f.webp",
+      "sourceHash": "584e3d79c90a91d0f5bbe4018983637f6da53935b0a10870df1cab12f1255382",
+      "originalBytes": 332220,
+      "bytes": 5944,
+      "width": 123,
+      "height": 128,
+      "alpha": true
+    },
+    {
+      "name": "weather5",
+      "file": "weather5.0894ebc7906d.webp",
+      "sourceHash": "d164c776ed85985e46c4847e9ec0000ce4a790bfed446e7862e761d35aaecd93",
+      "originalBytes": 275128,
+      "bytes": 6036,
+      "width": 128,
+      "height": 126,
+      "alpha": true
+    },
+    {
+      "name": "yard-day-v2",
+      "file": "yard-day-v2.4624eae73449.webp",
+      "sourceHash": "5c1b13fc8b35bb0a0f5b12406ea0fa8ee943f3b0c970d4881a734914ec8d0287",
+      "originalBytes": 710388,
+      "bytes": 288802,
+      "width": 800,
+      "height": 1421,
+      "alpha": false
+    },
+    {
+      "name": "yard-night-v2",
+      "file": "yard-night-v2.669a417fa6c9.webp",
+      "sourceHash": "cfe63c978f5302ce1eed4b09316fadce434329398ddf6ca5f8bfde2c711b4082",
+      "originalBytes": 593128,
+      "bytes": 235382,
+      "width": 800,
+      "height": 1421,
+      "alpha": false
+    },
+    {
+      "name": "yard",
+      "file": "yard.7f27cd0aa32d.webp",
+      "sourceHash": "6991100f41cf204f8eaebef6bc5622e5b9138f7b2c590f3d9d1e7b80c3b96092",
+      "originalBytes": 1609612,
+      "bytes": 45044,
+      "width": 216,
+      "height": 384,
+      "alpha": true
+    }
+  ]
+}
