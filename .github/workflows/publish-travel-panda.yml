@@ -1,0 +1,34 @@
+name: Publish travel panda source snapshot
+on:
+  push:
+    branches: [travel-panda-import-5ee0d32]
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify archive and publish source branch
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          archive="$RUNNER_TEMP/travel-panda-source-5ee0d32.zip"
+          cat parts/part-* > "$archive"
+          echo "345612d05caed1740e4e7427e6873afd4a1aeda0888b86f427c5e6550c196873  $archive" | sha256sum -c -
+          unzip -q "$archive" -d "$RUNNER_TEMP/project"
+          cd "$RUNNER_TEMP/project/travel-panda"
+          git init -q -b travel-panda
+          git add -f .
+          test "$(git write-tree)" = df3d6155594e2f1d0336077e59261437e26b70da
+          git -c user.name=github-actions -c user.email=github-actions@users.noreply.github.com commit -qm "Import travel panda source snapshot 5ee0d32"
+          gh auth setup-git
+          git remote add origin "https://github.com/$GITHUB_REPOSITORY.git"
+          git push origin HEAD:refs/heads/travel-panda
+          gh release create travel-panda-5ee0d32 "$archive" --repo "$GITHUB_REPOSITORY" --target travel-panda --title "旅行熊猫 · 5ee0d32" --notes "完整游戏源码和素材。SHA-256: 345612d05caed1740e4e7427e6873afd4a1aeda0888b86f427c5e6550c196873" --latest=false
+          commit=$(git rev-parse HEAD)
+          status=$(curl --silent --show-error --fail --retry 3 --output "$RUNNER_TEMP/github.zip" --write-out '%{http_code}' "https://codeload.github.com/$GITHUB_REPOSITORY/zip/$commit")
+          test "$status" = 200
+          unzip -tq "$RUNNER_TEMP/github.zip"
